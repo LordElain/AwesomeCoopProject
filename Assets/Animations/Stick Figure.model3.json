@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Stick Figure.moc3",
+		"Textures": [
+			"Stick Figure.1024/texture_00.png"
+		],
+		"DisplayInfo": "Stick Figure.cdi3.json"
+	}
+}
